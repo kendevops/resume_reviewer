@@ -45,13 +45,7 @@ const Footer = () => {
           </ul>
 
           <ul class="copyright">
-            <li>&copy; Copyright 2014 CeeVee</li>
-            <li>
-              Design by{" "}
-              <a title="Styleshout" href="http://www.styleshout.com/">
-                Styleshout
-              </a>
-            </li>
+            <li>&copy; Copyright 2020 Kenneth Michael</li>
           </ul>
         </div>
 
