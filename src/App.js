@@ -1,17 +1,26 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import {
+  About,
+  Contact,
+  Footer,
+  Header,
+  Portfolio,
+  Resume,
+  Testimonials,
+} from "./Components";
+import "./App.css";
 
 function App() {
   return (
-
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <>
+      <Header />
+      <About />
+      <Resume />
+      <Portfolio />
+      <Testimonials />
+      <Contact />
+      <Footer />
+    </>
   );
 }
 
