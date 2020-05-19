@@ -1,5 +1,11 @@
 {
-    "main": {
-        "name": "Kenneth Aladi",
-    }
+  "main": {
+    "name": "Kenneth Aladi",
+    "occupation": "Front End Web Developer, Facilitator and Deveops Engineer",
+    "description": "I bring to live designs made by the UI/UX teams",
+    "image": "",
+    "bio": "My name is Aladi Kenneth, A passionate Frontend developer who believes in giving his best always. I am very good in HTML, CSS, JavaScript, WordPress, Webpack, React and Git and Github. I love learning and building interesting things",
+    "email": "kendevops@gmail.com",
+    "phone": "+234-703-396-0652"
+  }
 }
