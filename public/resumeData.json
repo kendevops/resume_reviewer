@@ -6,6 +6,36 @@
     "image": "",
     "bio": "My name is Aladi Kenneth, A passionate Frontend developer who believes in giving his best always. I am very good in HTML, CSS, JavaScript, WordPress, Webpack, React and Git and Github. I love learning and building interesting things",
     "email": "kendevops@gmail.com",
-    "phone": "+234-703-396-0652"
+    "phone": "+234-703-396-0652",
+    "address": {
+      "street": "No 1 Precious Street",
+      "city": "Portharcourt",
+      "state": "Rivers",
+      "zip": "5100027"
+    },
+    "website": "http://kendevops.tk",
+    "resumeDownload": "something.com",
+    "social": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/aqua_robotics",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/kenneth-aladi/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/kendevops/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Skype",
+        "url": "https://skype.com/kennethmichael11/",
+        "className": "fa fa-skype"
+      }
+    ]
   }
 }
